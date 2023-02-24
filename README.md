@@ -1,4 +1,4 @@
 # Journal
 
-a /n
+a <br>
 a
