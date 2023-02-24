@@ -1,4 +1,4 @@
 # Journal
 
-a
+a\n
 a
